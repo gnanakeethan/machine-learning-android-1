@@ -1,0 +1,5 @@
+brown_planthopper
+gall_midge
+green_leafhopper
+leaffolder
+rice_bug
